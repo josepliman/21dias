@@ -1,0 +1,1 @@
+console.log("este é o dia 2")
